@@ -33,8 +33,8 @@ import Upload from './pages/Upload';
 import Users from './pages/Users';
 
 const nhost = new NhostClient({
-  subdomain:'obwxoaglntxfigizgnkh',
-  region: 'us-west-2'
+  subdomain:'shwokfpqdsoqidbqhjjw',
+  region: 'eu-central-1'
 })
 
 function App() {
