@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.7.10",
+    "@emotion/react": "^11.14.0",
     "@headlessui/react": "^2.2.1",
     "@heroicons/react": "^2.2.0",
     "@nhost/apollo": "^8.0.6",
